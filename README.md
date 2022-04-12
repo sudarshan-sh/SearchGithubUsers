@@ -6,6 +6,10 @@
 
 *   Only an authenticated user can do searching of github users.
 
+##  Image
+
+![Search Github Users App](https://github.com/sudarshan-sh/SearchGithubUsers/blob/main/src/images/search-github-users.png)
+
 ##  Functional
 
 *   The navigation bar has a welcome user message with his mentioned email along with the logout link.
