@@ -54,13 +54,23 @@ const Wrapper = styled.nav`
     object-fit: cover;
   }
   button {
-    background: transparent;
-    border: transparent;
+    background: hsl(185,62%,45%);
+    ${'' /* border: transparent; */}
+      border: 2px solid transparent;
+      border-radius: 15rem;
+      width: 100px;
+      padding: 4px;
+      color: var(--clr-primary-10);
+      transition: var(--transition);
     font-size: 1.2rem;
     text-transform: capitalize;
     letter-spacing: var(--spacing);
-    color: var(--clr-grey-5);
+    ${'' /* color: var(--clr-grey-5); */}
     cursor: pointer;
+    &:hover {
+        background: var(--clr-primary-8);
+        color: var(--clr-primary-1);
+      }}
   }
 `;
 
