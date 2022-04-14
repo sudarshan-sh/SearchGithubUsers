@@ -1,14 +1,13 @@
 #  Search Github Users App
 
+[Live Demo](https://do-search-users.netlify.app/)
+
 ##  Introduction
 
 *   It is a React application that allows to search github users.
 
 *   Only an authenticated user can do searching of github users.
 
-##  Image
-
-![Search Github Users App](https://github.com/sudarshan-sh/SearchGithubUsers/blob/main/src/images/search-github-users.png)
 
 ##  Functional
 
