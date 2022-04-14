@@ -8,6 +8,14 @@
 
 *   Only an authenticated user can do searching of github users.
 
+##  Images
+
+### Image -1
+![Search User-1](https://github.com/sudarshan-sh/SearchGithubUsers/blob/main/src/images/search-user-1.png)
+
+### Image -2
+
+![Search User-2](https://github.com/sudarshan-sh/SearchGithubUsers/blob/main/src/images/search-user-2.png)
 
 ##  Functional
 
